@@ -1,1 +1,1 @@
-https://github.com/SiegEPS/ExampleRepo/settings/pages
+https://siegeps.github.io/ExampleRepo/
